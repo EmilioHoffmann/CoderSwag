@@ -9,6 +9,8 @@
         android:id="@+id/categoryImage"
         android:layout_width="0dp"
         android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="@string/categoty_background"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
