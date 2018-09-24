@@ -2,4 +2,5 @@
     <string name="app_name">CoderSwag</string>
     <string name="categoty_background">Categoty background</string>
     <string name="categories">Categories</string>
+    <string name="products">Products</string>
 </resources>
